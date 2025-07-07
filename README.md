@@ -1,5 +1,5 @@
 ```markdown
-# 🍽️ Zomato Bengaluru Restaurants Analysis
+# 🍽️ Zomato Bengaluru Restaurants Analysis   
 
 ## 📖 Description
 This project is a comprehensive Exploratory Data Analysis (EDA) of Zomato’s Bengaluru restaurant dataset (as of March 15, 2019). It aims to uncover insights on:
