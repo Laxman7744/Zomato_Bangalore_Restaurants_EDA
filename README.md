@@ -1,8 +1,8 @@
 ```markdown
-# 🍽️ Zomato Bengaluru Restaurants Analysis   
+#   🍽️ Zomato Bengaluru Restaurants Analysis   
 
 
-## 📖 Description
+##  📖 Description
 This project is a comprehensive Exploratory Data Analysis (EDA) of Zomato’s Bengaluru restaurant dataset (as of March 15, 2019). It aims to uncover insights on:
 - **Demographics & Locations**: Which neighbourhoods have the highest concentration of restaurants?  
 - **Cuisine Popularity**: What cuisines dominate each area?  
@@ -11,7 +11,7 @@ This project is a comprehensive Exploratory Data Analysis (EDA) of Zomato’s Be
 
 By understanding these patterns, new restaurant owners can make data‑driven decisions about theme, menu, pricing, and ideal location.
 
-## ⚙️ Installation Instructions
+##   ⚙️ Installation Instructions
 
 1. **Clone the repository**  
    ```bash
@@ -110,3 +110,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 > “Just so that you have a good meal the next time you step out.”  
 > _Data scraped for educational purposes only. All rights belong to Zomato Media Pvt. Ltd._  
 ```
+
